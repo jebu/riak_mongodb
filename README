@@ -1,7 +1,7 @@
 riak_mongodb
 ==================
 
-A MongoDB backend for Riak derived off [http://github.com/cstar/riak_redis_backend]
+A MongoDB backend for Riak based on emongo
 
 Instructions
 ============
